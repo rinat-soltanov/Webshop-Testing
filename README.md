@@ -7,4 +7,4 @@ Here I display types of testing documentation that I prepared for the following 
 
 • <a href="https://docs.google.com/spreadsheets/d/107sxC2qU_qQDaQ7KB_i2Llkjo6gFLQhhlBxDa7EKTY4/edit?usp=sharing" target="_blank">**Test Design Techniques (Pairwise Testing)**</a>
 
-•	
+• <a href="https://docs.google.com/spreadsheets/d/1EzpZLWUTx4MUlsekh2IB9njMH9-hZk3cs_rdylS8v4w/edit?usp=sharing" target="_blank"> **Test Design Techniques (Decision Table)**</a> 
