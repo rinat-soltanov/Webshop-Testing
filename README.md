@@ -13,3 +13,9 @@ Here I display types of testing documentation that I prepared for the following 
 
 • <a href="https://drive.google.com/file/d/1vwTcWfANBP72_5sEQ2gKUJGH6snELPxN/view?usp=sharing" target="_blank"> **Full set of test cases based on requirements (ID1-ID8)**</a>  
 *<a href="https://drive.google.com/file/d/12Br_FKe-s7dF9fL3SLS9WgA0nXzVBke-/view?usp=sharing" target="_blank"> Test run 2025/11/07</a> 
+
+<a href="https://drive.google.com/file/d/1pgz1LCnJSwzG9vTX3l2INkyYZlmh3aUe/view?usp=sharing" target="_blank"> **Test Cases based Bug report**</a> 
+
+<a href="https://drive.google.com/file/d/1RTO6lTy92wM6xxJibW7wJ29M-R8h0Eec/view?usp=sharing" target="_blank"> **Exploratory Testing bases Bug report (Cart/Payment/Orders History)**</a> 
+
+
