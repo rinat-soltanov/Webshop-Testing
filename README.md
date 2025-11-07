@@ -12,4 +12,4 @@ Here I display types of testing documentation that I prepared for the following 
 • <a href="https://docs.google.com/spreadsheets/d/1JNhBGGng4ctHzEFjCOwuiPJezoGYVdUnLse8kx4FJSM/edit?usp=sharing" target="_blank"> **Check List**</a> 
 
 • <a href="https://drive.google.com/file/d/1vwTcWfANBP72_5sEQ2gKUJGH6snELPxN/view?usp=sharing" target="_blank"> **Full set of test cases based on requirements (ID1-ID8)**</a>  
-*<a href="https://app.qase.io/public/report/d7476d6dcea0c14f9b943d8bddd84ded1db07c66" target="_blank"> Test run 2025/10/28</a> 
+*<a href="https://drive.google.com/file/d/12Br_FKe-s7dF9fL3SLS9WgA0nXzVBke-/view?usp=sharing" target="_blank"> Test run 2025/11/07</a> 
