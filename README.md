@@ -1,8 +1,7 @@
 # Webshop Testing
 Here I display types of testing documentation that I prepared for the following Demo Webstore: https://intern.demoshopping.ru/
 
- <a href="https://github.com/rinat-soltanov/Webshop-Testing/tree/aeb4c931945f8bd063a585de1b339430ffc7336c/Business%20Documentation" target="_blank">**Business Documentation**</a>
-
+ 
 • [**Requirements Analysis**](https://docs.google.com/spreadsheets/d/1FNZtpPM6Y8_0JFXUuHVSI1FF96HLIf_cHGZUdwxbBhc/edit?usp=sharing)
 
 • <a href="https://docs.google.com/spreadsheets/d/1A0ovryJL0fSBZmZQS-QHUjJ9r2oGUSWlXJrmnmnRd-k/edit?usp=sharing" target="_blank">**Test Design Techniques (Equivalence classes and Boundary values)**</a>
