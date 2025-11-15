@@ -19,7 +19,7 @@
 
 🐞<a href="https://drive.google.com/file/d/1exubjl-aTj7H9Jq8xI_yaQ_jqX8Z1Se6/view?usp=sharing" target="_blank"> **Test Cases based Bug report**</a> 
 
-🐞<a href="https://drive.google.com/file/d/1RTO6lTy92wM6xxJibW7wJ29M-R8h0Eec/view?usp=sharing" target="_blank"> **Exploratory Testing based Bug report (Cart/Payment/Orders History)**</a> 
+🐞<a href="https://drive.google.com/file/d/1RTO6lTy92wM6xxJibW7wJ29M-R8h0Eec/view?usp=sharing"_blank"> **Exploratory Testing based Bug report (Cart/Payment/Orders History)**</a> 
 
 
 🔌<a href="https://www.postman.com/newskillsonline81-9258011/api-testing-portfolio/collection/956kfjm/demo-webshop?action=share&creator=47640642
