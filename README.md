@@ -13,7 +13,7 @@
 
 📝 <a href="https://drive.google.com/file/d/1vwTcWfANBP72_5sEQ2gKUJGH6snELPxN/view?usp=sharing" target="_blank"> **Full set of test cases based on requirements (ID1-ID8)**</a>  
 
-🚀<a href="https://drive.google.com/file/d/12Br_FKe-s7dF9fL3SLS9WgA0nXzVBke-/view?usp=sharing" target="_blank"> **Test run 2025/11/07**</a> 
+🚀<a href="https://app.qase.io/public/report/d7476d6dcea0c14f9b943d8bddd84ded1db07c66"> **Test run 2025/11/07**</a> 
 
 
 
